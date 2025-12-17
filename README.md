@@ -12,6 +12,9 @@ di kode ini fokus untuk game A Space For The Unbound, kenapa? ya karena itu sala
 
 itu saja sih, silahkan kalau mau mengembangkan untuk disesuaikan dengan game yang anda gunakan. selamat bermain :)
 
+perkabelan :
+https://wokwi.com/projects/435295110977170433
+
 English :
 In This code, i use an ESP-32 for built a "Gaming" Bluetooth Keyboard, 
 why gaming? because its only has 7 custom button and a joystick.
@@ -20,3 +23,6 @@ and therer is a volume control and RGB Lamp.
 in this code are focusing for A Space For The Unbound Game. Why? because its one of the first game i buy from steam and capable to run it on my laptop.
 
 well, that's all, you could expand this for another game, happy gaming :)
+
+wiring :
+https://wokwi.com/projects/435295110977170433
